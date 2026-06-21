@@ -8,7 +8,7 @@ Este proyecto simula un equipo de agentes de Inteligencia Artificial que colabor
 ## Archivos del repositorio
 
 - agentes_ia.py → Código fuente en Python.
-- Clase-9-Disenando-un-Equipo-de-Agentes-IA.pdf → Consigna del trabajo práctico.
+- Clase 9-Disenando un Equipo de Agentes IA.pdf → Consigna del trabajo práctico.
 
 ## Tecnologías utilizadas
 
