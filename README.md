@@ -1,17 +1,30 @@
-# TP Agentes IA
+# 🌷 TP Agentes IA
 
-Trabajo Práctico: Diseñando un Equipo de Agentes IA.
+✨ *Trabajo Práctico - Diseñando un Equipo de Agentes IA*
 
-## Descripción
-Este proyecto simula un equipo de agentes de Inteligencia Artificial que colaboran para desarrollar una aplicación de gestión de turnos médicos online.
+---
 
-## Archivos del repositorio
+## 🩺 Descripción
 
-- agentes_ia.py → Código fuente en Python.
-- Clase 9-Disenando un Equipo de Agentes IA.pdf → Consigna del trabajo práctico.
+Simulación de agentes inteligentes colaborando para desarrollar un sistema de gestión de turnos médicos.
 
-## Tecnologías utilizadas
+---
 
-- Python 3
-- Visual Studio Code
-- GitHub
+## 📂 Archivos incluidos
+
+🌸 `agentes_ia.py` → Código en Python.
+
+📄 `Clase 9 Disenando un-Equipo de Agentes IA.pdf` → Consigna del trabajo.
+
+---
+
+## 💻 Tecnologías
+
+🐍 Python 3  
+📝 Visual Studio Code  
+🌿 Git  
+🩷 GitHub
+
+---
+
+✨ Desarrollado por Agustina Guadalupe Muñoz Arruti
